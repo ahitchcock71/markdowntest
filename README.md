@@ -2,5 +2,6 @@
 
  | Dependency  | License |
  | :------------- | :------------- |
- | [github.com/alecthomas/chroma](https://github.com/alecthomas/chroma) | MIT License |
+ | a | c |
  | a | b |
+ | c | d |
